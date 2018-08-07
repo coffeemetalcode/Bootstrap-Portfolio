@@ -105,7 +105,8 @@ button {
     left: 50%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
-    background-color: #4aaaa5;
+    /* background-color: #4aaaa5; */
+    background-color: #343a40;
     color: white;
     font-size: 16px;
     padding: 12px 24px;
@@ -115,7 +116,8 @@ button {
   }
   
   .tile .btn:hover {
-    background-color: #71c1bd;
+    /* background-color: #71c1bd; */
+    background-color: #5c6670;
   }
 
   .footer {
@@ -123,7 +125,8 @@ button {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #4aaaa5;
+    /* background-color: #4aaaa5; */
+    background-color: #343a40;
     color: white;
     text-align: center;
 }
